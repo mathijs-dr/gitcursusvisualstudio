@@ -10,7 +10,7 @@ namespace gitCursus
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello inreen");
+            Console.WriteLine("hello almaal");
         }
     }
 }
